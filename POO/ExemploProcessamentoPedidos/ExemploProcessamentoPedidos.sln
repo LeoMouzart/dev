@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploProcessamentoPedidos", "ExemploProcessamentoPedidos.csproj", "{43A9C799-3FDA-5EAA-6B88-3D87FF18830E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A9C799-3FDA-5EAA-6B88-3D87FF18830E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A9C799-3FDA-5EAA-6B88-3D87FF18830E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A9C799-3FDA-5EAA-6B88-3D87FF18830E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A9C799-3FDA-5EAA-6B88-3D87FF18830E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7B1DB5-6616-4817-BF7E-19E6AE77B624}
+	EndGlobalSection
+EndGlobal
